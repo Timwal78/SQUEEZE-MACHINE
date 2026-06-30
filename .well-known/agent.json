@@ -1,0 +1,13 @@
+{
+  "name": "SQUEEZE-MACHINE",
+  "description": "Automated squeeze detection and signal generation machine",
+  "owner": "ScriptMasterLabs",
+  "github": "https://github.com/timwal78/SQUEEZE-MACHINE",
+  "contact": "scriptmasterlabs@gmail.com",
+  "sovereign": {
+    "noMockData": true,
+    "liveDataOnly": true,
+    "noTelemetry": true,
+    "enforcedBy": ".github/workflows/sovereign-data-check.yml"
+  }
+}
